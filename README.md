@@ -26,7 +26,8 @@ print(result)
 ```
 
 ## Output:
-![output](Output.png)
+![image](https://github.com/user-attachments/assets/0749bbf7-ceb1-4e8e-89f5-0a7e48aa60fd)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
